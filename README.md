@@ -91,7 +91,7 @@ No more switching between apps. DezAlty brings all your favorite music tools int
   Available in 10+ languages thanks to our contributors.
 
 - 🎵 **Supported Platforms**  
-  Deezer | Tidal | Qobuz | Spotify | Apple Music | YouTube
+  Deezer | Tidal | Qobuz | Spotify | Apple Music | Amazon Music | YouTube
 
 - ➕ **...And More!**  
   Discover even more features by using the bot.
